@@ -29,7 +29,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.44553467"
-     inkscape:cx="687.21626"
+     inkscape:cx="247.29539"
      inkscape:cy="970.95773"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
@@ -54,7 +54,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -87,7 +87,7 @@
          id="flowPara877"
          style="text-align:end;text-anchor:end;fill:#d45500" /><flowPara
          id="flowPara881"
-         style="text-align:end;text-anchor:end;fill:#d45500"> </flowPara><flowPara
+         style="text-align:end;text-anchor:end;fill:#d45500" /><flowPara
          style="text-align:end;text-anchor:end;fill:#d45500"
          id="flowPara1105"> Blue Heaven, Key West </flowPara><flowPara
          id="flowPara883"
@@ -97,15 +97,15 @@
          style="text-align:end;text-anchor:end;fill:#d45500"
          id="flowPara1113" /><flowPara
          style="text-align:end;text-anchor:end;fill:#d45500"
-         id="flowPara1115"> Blue Heaven, Key West, FL. </flowPara><flowPara
+         id="flowPara1115"> Blue Heaven, Key West </flowPara><flowPara
          id="flowPara887"
          style="text-align:end;text-anchor:end;fill:#d45500" /><flowPara
          style="text-align:end;text-anchor:end;fill:#d45500"
          id="flowPara946" /><flowPara
          style="text-align:end;text-anchor:end;fill:#d45500"
-         id="flowPara1183"> </flowPara><flowPara
+         id="flowPara1183" /><flowPara
          style="text-align:end;text-anchor:end;fill:#d45500"
-         id="flowPara986">Artisan, Key Biscayne, FL. </flowPara><flowPara
+         id="flowPara986">Artisan, Key Biscayne </flowPara><flowPara
          id="flowPara889"
          style="text-align:end;text-anchor:end;fill:#d45500" /><flowPara
          id="flowPara891"
@@ -119,7 +119,7 @@
          style="text-align:end;text-anchor:end;fill:#d45500"
          id="flowPara1217"> Palmetto Brewing, Charleston</flowPara><flowPara
          id="flowPara895"
-         style="text-align:end;text-anchor:end;fill:#d45500"> </flowPara><flowPara
+         style="text-align:end;text-anchor:end;fill:#d45500" /><flowPara
          id="flowPara917"
          style="text-align:end;text-anchor:end;fill:#d45500">Commonhouse Aleworks, Charleston</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
@@ -273,7 +273,7 @@
          id="tspan1129"
          x="178.89214"
          y="-68.389542"
-         style="fill:#000080">  </tspan><tspan
+         style="fill:#000080" /><tspan
          sodipodi:role="line"
          x="178.89214"
          y="-55.16037"
@@ -293,7 +293,7 @@
          x="178.89214"
          y="-15.472875"
          id="tspan1139"
-         style="fill:#000080"> </tspan><tspan
+         style="fill:#000080" /><tspan
          sodipodi:role="line"
          x="178.89214"
          y="-2.2437081"
@@ -313,7 +313,7 @@
          x="178.89214"
          y="37.44379"
          id="tspan1151"
-         style="fill:#000080"> </tspan><tspan
+         style="fill:#000080" /><tspan
          sodipodi:role="line"
          x="178.89214"
          y="50.672958"
@@ -323,7 +323,7 @@
          x="178.89214"
          y="63.902126"
          id="tspan1155"
-         style="fill:#000080"> </tspan><tspan
+         style="fill:#000080" /><tspan
          sodipodi:role="line"
          x="178.89214"
          y="77.131287"
@@ -333,7 +333,7 @@
          x="178.89214"
          y="90.360451"
          id="tspan1199"
-         style="fill:#000080"> </tspan><tspan
+         style="fill:#000080" /><tspan
          sodipodi:role="line"
          x="178.89214"
          y="103.58962"
@@ -482,8 +482,8 @@
        sodipodi:nodetypes="ccccccc" />
     <path
        style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 68.791666,-84.000008 C -38.998688,-69.629466 6.4590727,-50.103021 21.166667,-31.083342 -59.610698,-15.40998 -34.314893,2.9246758 2.6666665e-7,21.833325 -106.75899,35.638394 -58.405772,49.651209 52.916667,48.291658 -117.31958,49.206328 -51.879231,62.777167 5.2916667,74.74999 -17.635765,84.073522 -54.821788,93.611541 37.041667,101.20832 1.5497352,111.85869 -15.66843,121.6516 47.625,127.66666 c -102.81835,-0.036 -59.103114,15.82015 -63.499999,26.45833 -100.738121,5.2493 -27.344224,17.53186 -37.041666,26.45833"
-       id="path1084"
+       d="m 74.083332,-84.000008 c -116.48239,13.595636 -82.8244289,33.225176 -47.624999,52.916666 -91.670543,17.844395 -27.8180112,35.34014 0,52.916667 -52.515463,15.753127 -76.116818,28.90968 74.083337,26.458332 -71.965706,5.228167 -146.693384,10.261074 -63.500004,26.458333 -72.07359,8.346393 -21.985559,17.475432 5.291667,26.45833 -33.8699989,11.35347 -40.4712199,20.85925 10.583333,26.45834 -173.380326,11.78894 -66.615004,18.11259 -63.499999,26.45833 -87.699885,7.28304 -58.293378,16.95382 -37.041666,26.45833"
+       id="path923"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccccccc" />
   </g>
