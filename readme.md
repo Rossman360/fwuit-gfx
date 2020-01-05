@@ -1,6 +1,6 @@
 This git contains resource files for the show poster for the 2020 combined The Moon & You/Fwuit! Florida tour. The photographs are copyright by Kristi Knupp of Evoke Emotion Photography (www.evoke-emotion.com). The bands can be found at www.themoonandyou.com and www.fwuit.com
 
-[poster]: http://github.com/Rossman360/moonfworida2/moonfworida.png "The Moon & You/Fwuit! Florida tour"
+[poster]: https://github.com/Rossman360/moonfworida2/blob/master/moonfworida.png "The Moon & You/Fwuit! Florida tour"
 
 TMAY:<br>
 1/15 McClellanville Arts Council, McClellanville, SC. 7pm *<br>
