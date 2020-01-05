@@ -1,6 +1,6 @@
 This git contains resource files for the show poster for the 2020 combined The Moon & You/Fwuit! florida tour. The photographs are copyright by Kristi Knupp of Evoke Emotion Photography. The bands can be found at themoonandyou.com and fwuit.com
 
-TMAY:
+TMAY:<br>
 1/15 McClellanville Arts Council, McClellanville, SC. 7pm *
 1/16 (?)
 1/18 Blue Heaven, Key West, FL. 10:30am-1:30pm and 6:30-9:30pm
