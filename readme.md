@@ -13,7 +13,7 @@ TMAY:
 2/1 Commonhouse Aleworks, Charleston, SC. 2-5pm
 
 
-Fwuit:
+Fwuit!:
 1/15 sc
 1/16 no
 1/17 The artisan, miami
