@@ -16,7 +16,7 @@ TMAY:<br>
 Fwuit!:<br>
 1/15 sc<br>
 1/16 no<br>
-1/17 The artisan, miami<br>
+1/17 artisan, key biscayne<br>
 1/18 no<br>
 1/19 blue heaven, key west<br>
 1/20-1/22 no<br>
